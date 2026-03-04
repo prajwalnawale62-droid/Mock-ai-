@@ -1,0 +1,5 @@
+{
+  "name": "MockMaster AI",
+  "description": "An intelligent mock test generator that creates custom quizzes on any topic using Gemini 3. Test your knowledge, get instant feedback, and master any subject.",
+  "requestFramePermissions": []
+}
